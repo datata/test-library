@@ -4,5 +4,9 @@
   "description": "A simple JavaScript validation library",
   "type": "module",
   "main": "./src/index.js",
-  "exports": "./src/index.js"
+  "exports": "./src/index.js",
+  "files": [
+    "src"
+  ],
+  "license": "MIT"
 }
