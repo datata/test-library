@@ -1,0 +1,8 @@
+{
+  "name": "mini-validator",
+  "version": "1.0.0",
+  "description": "A simple JavaScript validation library",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": "./src/index.js"
+}
