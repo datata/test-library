@@ -1,5 +1,5 @@
 {
-  "name": "mini-validator",
+  "name": "datata-mini-validator",
   "version": "1.0.0",
   "description": "A simple JavaScript validation library",
   "type": "module",
